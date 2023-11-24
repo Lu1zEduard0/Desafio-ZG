@@ -68,7 +68,8 @@ else:
     print(f'Erro na requisição. Código de status: {response.status_code}')
 ```
 
-####Resultado Inserido no README:
+**Resultado Inserido no README:**
+
 Insira abaixo o código hash que recebeu após realizar a requisição HTTP.
 
 `04cc1c1f40ba64e8514675718121818e855a846a`
