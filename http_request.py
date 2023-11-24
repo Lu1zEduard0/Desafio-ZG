@@ -6,7 +6,7 @@ url = "https://tranquil-rex-405218.rj.r.appspot.com/hashCodeServer"
 
 # Define os dados a serem enviados na solicitação POST
 params = {
-    'nome': 'Luiz Eduardo Pereira de Lima',
+    'nome': 'LuizEduardoPereiradeLima',
     'email': 'email@gmail.com',
     'cpf': '111.111.111-00' 
 }
